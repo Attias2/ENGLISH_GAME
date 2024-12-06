@@ -1,0 +1,61 @@
+<?php
+
+$namePage = 'Game';
+
+include '../Includes/header.php';
+
+?>
+<body>
+    
+    <div class='container_game'>
+        
+        <div id="logo">
+            <img src='../image/Logo_Protocol_55.png'>
+        </div>
+
+        <div id='instrction'>
+            <p>ffffgf</p>
+        </div>
+        <div id="boutton_generer_theme">
+            <button class="button-82-pushable index" role="button">
+                <span class="button-82-shadow"></span>
+                <span class="button-82-edge"></span>
+                <span class="button-82-front text text_boutton">
+                    GENERE A THEME
+                </span>
+            </button>
+        </div>
+
+        <div id='theme' class="aff">
+        </div>
+
+        <div id="boutton_generer_softskil">
+                <button class="button-82-pushable index" role="button">
+                    <span class="button-82-shadow"></span>
+                    <span class="button-82-edge"></span>
+                    <span class="button-82-front text text_boutton">
+                        GENERE A SOFTSKILL
+                    </span>
+                </button>
+        </div>
+
+        <div id='softSkill' class="aff">
+        </div>
+
+        <div id="resetButton">
+                <button class="button-82-pushable index" role="button">
+                    <span class="button-82-shadow"></span>
+                    <span class="button-82-edge"></span>
+                    <span class="button-82-front text text_boutton">
+                        RESET
+                    </span>
+                </button>
+        </div>
+        
+
+    </div>
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="../js/randomEvent.js"></script>
+</html>

@@ -1,0 +1,501 @@
+{
+    "topics": [
+      {
+        "name": "Military",
+        "soft_skills": [
+          {
+            "name": "Discipline",
+            "description": "The ability to maintain self-control and adhere to rules or standards.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Having strict discipline always means obeying without thinking."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What does having strict personal discipline mean?",
+                "options": [
+                  "Waking up at dawn every day.",
+                  "Following rules to stay focused and organized.",
+                  "Writing a book on the art of procrastination.",
+                  "Doing your best to meet your commitments."
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In which field, aside from the military, do you consider discipline as a very important criterion?"
+              }
+            ]
+          },
+          {
+            "name": "Team Spirit",
+            "description": "The ability to work collectively for the benefit of the group.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Team spirit means working for the benefit of the team rather than for individual interests."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "Team spirit is demonstrated when a team:",
+                "options": [
+                  "Shares responsibilities and supports each other.",
+                  "Organizes a surprise birthday party.",
+                  "Works separately without speaking to each other.",
+                  "Spends time singing group songs."
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In your opinion, in which professional sector is team spirit most important?"
+              }
+            ]
+          },
+          {
+            "name": "Ability to Execute Orders Efficiently",
+            "description": "Carrying out orders quickly and accurately while understanding their purpose.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Executing an order quickly always means acting without asking questions."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What does 'executing an order quickly' mean?",
+                "options": [
+                  "Running fast with a piece of paper.",
+                  "Acting efficiently while understanding the order.",
+                  "Doing something randomly to save time.",
+                  "Waiting for someone else to do it for you."
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "Can you give an example where it is essential to respond as quickly as possible?"
+              }
+            ]
+          },
+          {
+            "name": "Risk Management in Operations",
+            "description": "Identifying, assessing, and mitigating potential risks in operations.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Risk management is about eliminating all potential hazards."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "Risk management involves:",
+                "options": [
+                  "Ignoring all problems and hoping everything will be fine.",
+                  "Analyzing potential hazards and planning solutions.",
+                  "Wearing a helmet even to go to the supermarket.",
+                  "Completely avoiding dangerous situations."
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "Can you provide an example of a situation where it's important to anticipate risks in advance?"
+              }
+            ]
+          },
+          {
+            "name": "Precision in Mission Execution",
+            "description": "The ability to complete tasks accurately and effectively according to instructions.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Precision in a mission only means completing the task quickly."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "Being precise in a mission means:",
+                "options": [
+                  "Following instructions to the letter.",
+                  "Doing things without asking questions.",
+                  "Wearing a watch to avoid being late.",
+                  "Letting someone else manage the details."
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In which field is the need for precision most important?"
+              }
+            ]
+          },
+          {
+            "name": "Mental and Physical Resilience",
+            "description": "The capacity to recover and adapt in challenging situations, both mentally and physically.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Mental resilience is more important than physical resilience."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "How can you develop good mental and physical resilience?",
+                "options": [
+                  "By reading Rich Dad Poor Dad.",
+                  "By combining regular exercise and stress management.",
+                  "By eating only proteins.",
+                  "By sleeping all day to recharge."
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "Which do you think is more important to develop, physical or mental resilience?"
+              }
+            ]
+          },
+          {
+            "name": "Decision-making in Unknown Terrain",
+            "description": "The ability to make effective decisions in unfamiliar or unpredictable situations.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Making decisions in unknown terrain always requires following rigid procedures."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What does making a decision in unknown terrain mean?",
+                "options": [
+                  "Thinking calmly and adapting to the situation.",
+                  "Drawing a map on the spot to get oriented.",
+                  "Waiting for someone else to give instructions.",
+                  "Relying only on luck."
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "Which country would you least want to end up in unintentionally?"
+              }
+            ]
+          },
+          {
+            "name": "Stress Management in Conflict Zones",
+            "description": "The ability to remain calm and manage stress effectively in high-pressure situations.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Managing stress means avoiding all negative emotions."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "How can you better manage stress in a difficult situation?",
+                "options": [
+                  "By breathing deeply and staying focused.",
+                  "By playing Call of Duty.",
+                  "By immediately abandoning the situation.",
+                  "By ignoring completely what's happening."
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What is the best technique to stay calm in everyday challenges, such as traffic jams or tight deadlines?"
+              }
+            ]
+          },
+          
+  
+    
+        {
+          "name": "Ability to Follow Safety Protocols",
+          "description": "Understanding and adhering to safety procedures to prevent harm and ensure operational effectiveness.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Following safety protocols is optional."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "Why is it important to follow safety protocols?",
+              "options": [
+                "To prevent accidents and protect people involved.",
+                "To avoid getting scolded by your superior.",
+                "Because the game's name is Protocol 55.",
+                "Because everyone loves rules."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "Can you give an example of a situation where following safety protocols is essential, even in daily life?"
+            }
+          ]
+        },
+        {
+          "name": "Observation Skills in Complex Environments",
+          "description": "The ability to notice, interpret, and prioritize critical details in challenging situations.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Having a good sense of observation means only noticing the big details."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "How can you improve your sense of observation?",
+              "options": [
+                "By developing your Sharingan.",
+                "By practicing attention to detail in simple activities.",
+                "By taking compulsive notes.",
+                "By looking at things once and assuming the rest."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "If you had to keep only one sense out of the five (sight, smell, hearing, touch, taste), which would you keep?"
+            }
+          ]
+        },
+        {
+          "name": "Ability to Stay Focused Under Pressure",
+          "description": "The capacity to maintain concentration and effectively handle stress in demanding situations.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "You can only stay focused under pressure by being naturally calm."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "Which strategy helps you stay focused in a stressful situation?",
+              "options": [
+                "Remembering the main goal and breaking the problem into steps.",
+                "Thinking about the next meal break.",
+                "Looking around to see what others are doing.",
+                "Trying to forget the pressure completely."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "What do you think is the most effective way to stay focused when there are distractions around you?"
+            }
+          ]
+        },
+        {
+          "name": "Leadership in Extreme Conditions",
+          "description": "Guiding and supporting a team to achieve objectives during challenging circumstances.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Being a good leader in extreme conditions always means leading without consulting your team."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "Good leadership in extreme conditions includes:",
+              "options": [
+                "Giving orders while shouting loudly.",
+                "Supporting the team and adapting to circumstances.",
+                "Doing nothing to see how the team reacts.",
+                "Focusing only on rules without considering the situation."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "In your opinion, what quality is most important to lead a group in a difficult situation?"
+            }
+          ]
+        },
+        {
+          "name": "Quick Resolution of Tactical Issues",
+          "description": "Rapidly assessing and solving operational challenges with logical and effective actions.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Solving a tactical problem quickly always means choosing the first solution that comes to mind."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "A good quick tactical resolution involves:",
+              "options": [
+                "Asking everyone's opinion without making a decision.",
+                "Sneaking away quietly.",
+                "Taking a long time to reflect.",
+                "Analyzing options quickly and acting logically."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "When facing an unexpected problem, what is the best way to find a solution quickly?"
+            }
+          ]
+        },
+        {
+          "name": "Ability to Integrate into Multinational Teams",
+          "description": "Collaborating effectively with team members from diverse cultural and linguistic backgrounds.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Integrating into a multinational team only means speaking multiple languages."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "How can you better integrate into a multinational team?",
+              "options": [
+                "By respecting cultural differences and being open to different viewpoints.",
+                "By imposing your own traditions on the team.",
+                "By drinking the strongest alcohol from your teammate's country.",
+                "By avoiding any interaction to avoid mistakes."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "In your mind, where would the person you would have the hardest time working with come from?"
+            }
+          ]
+        },
+        {
+          "name": "Flexibility in Changing Environments",
+          "description": "Adapting to new challenges and dynamic situations with agility and composure.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Being flexible means never planning anything."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "What does being flexible in a changing environment mean?",
+              "options": [
+                "Adapting quickly to new situations and adjusting plans.",
+                "Complaining until things return to normal.",
+                "Doing yoga to stay zen.",
+                "Refusing any change and sticking to the initial plan."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "In which field would you least like to work, even for just one day?"
+            }
+          ]
+        },
+        {
+          "name": "Ability to Handle Specialized Equipment",
+          "description": "Using and maintaining equipment effectively to ensure safety and efficiency.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Handling specialized equipment only requires using it without maintenance."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "Why is it important to properly handle specialized equipment?",
+              "options": [
+                "To ensure proper functioning and avoid accidents.",
+                "Because it costs a lot and needs to look nice.",
+                "To impress colleagues with your expertise.",
+                "Because machines are always reliable and never break down."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "What specialized equipment do you think you'll least need to use once in your life?"
+            }
+          ]
+        },
+
+       
+                  {
+                    "name": "Adaptability to Local Cultures During International Missions",
+                    "description": "The ability to understand, respect, and adjust to local customs and practices during missions abroad.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Adapting to a local culture means completely changing your own values."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "Why is adapting to local cultures important during international missions?",
+                        "options": [
+                          "To better communicate and cooperate with local people.",
+                          "To criticize the local ways of doing things.",
+                          "To blend in and disappear from the scene.",
+                          "To impose your culture on others."
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What are the local habits or customs you'd like to adopt in a country you visit?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Ability to Build Trust in Tense Contexts",
+                    "description": "Building mutual trust through transparency and respect, even in challenging situations.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Trust in a tense context is built solely through verbal promises."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "How can trust be built in a tense situation?",
+                        "options": [
+                          "By making a promise and crossing your fingers discreetly.",
+                          "By showing transparency, listening, and respect.",
+                          "By avoiding any discussion with others.",
+                          "By imposing your decisions without explanation."
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "In which area can trust be built in a tense situation?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Analytical Mindset for Military Strategies",
+                    "description": "The ability to analyze data and develop effective strategies in military contexts.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "An analytical mindset always involves choosing the simplest solution."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What does having an analytical mindset in a strategic context mean?",
+                        "options": [
+                          "Drawing an unnecessarily complicated diagram to impress others.",
+                          "Always choosing the most expensive option.",
+                          "Being able to assess data and propose suitable solutions.",
+                          "Following only the advice of superiors without reflection."
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "If you were in the military, what do you think would be the most important factor to consider when analyzing a strategy in an uncertain environment?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Ability to Maintain Morale in Difficult Conditions",
+                    "description": "Keeping spirits high and fostering optimism during challenging times.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Maintaining morale means avoiding any discussion of problems."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "How can morale be maintained in difficult conditions?",
+                        "options": [
+                          "By encouraging others and finding positive aspects in the situation.",
+                          "By offering cookies to everyone.",
+                          "By completely ignoring difficulties.",
+                          "By focusing only on one's own emotions."
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "When going through a difficult time, what action or attitude helps you the most to stay optimistic and motivated?"
+                      }
+                    ]
+                  }
+                
+          
+
+
+
+
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,493 @@
+{
+    "topics": [
+      {
+        "name": "Technology",
+        "soft_skills": [
+          {
+            "name": "Technological Adaptability",
+            "description": "The ability to adjust to new innovations and the rapid evolution of digital tools.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Technological adaptability is the ability to adjust to new innovations and the rapid evolution of digital tools."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the main aspect of technological adaptability?",
+                "options": [
+                  "Becoming the new Robocop",
+                  "Being able to adjust to new technologies",
+                  "Being able to create new technologies",
+                  "Never changing tools once they are in place"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What technology would you give to a 20-year-old to make them feel completely lost?"
+              }
+            ]
+          },
+          {
+            "name": "Technical Problem Solving",
+            "description": "Involves identifying the root cause of a problem and proposing a sustainable solution.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Technical problem solving involves finding a quick solution without considering underlying causes."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the main goal of technical problem solving?",
+                "options": [
+                  "Solving the problem without any prior analysis",
+                  "Finding a quick solution without testing it",
+                  "Identifying the root cause of the problem and proposing a sustainable solution",
+                  "Ignoring technical problems that seem minor"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What is the website or mobile app with the most bugs you’ve ever used?"
+              }
+            ]
+          },
+          {
+            "name": "Digital Creativity",
+            "description": "Involves developing new ideas and solutions using digital tools.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Digital creativity is solely about developing innovative apps or software."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What does digital creativity include?",
+                "options": [
+                  "Hacking a computer while leaving as few traces as possible",
+                  "Developing new ideas and solutions using digital tools",
+                  "Regularly updating existing software",
+                  "Managing administrative tasks in a digital environment"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "How could you use technology to solve a problem in an original way?"
+              }
+            ]
+          },
+          {
+            "name": "Managing Technological Change",
+            "description": "Involves guiding users through the transition to new technologies.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Managing technological change means ensuring that everyone adopts new technology without resistance."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is a key role in managing technological change?",
+                "options": [
+                  "Ignoring user resistance",
+                  "Encouraging adoption of new technology by guiding users through the transition",
+                  "Never changing technology to avoid disruptions",
+                  "Minimizing training to accelerate the change"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What is one technology you regret was ever invented?"
+              }
+            ]
+          },
+          {
+            "name": "Ability to Learn New Technologies",
+            "description": "Involves actively using new tools while seeking help resources.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Learning new technologies requires only reading user manuals."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the best way to learn a new technology effectively?",
+                "options": [
+                  "Read the manual three times",
+                  "Actively try to use it while seeking help resources",
+                  "Wait for a colleague to explain how to use it",
+                  "Ignore new technologies and focus on old ones"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What is the most complicated new daily-use technology you’ve had to learn?"
+              }
+            ]
+          },
+          {
+            "name": "Algorithmic Thinking",
+            "description": "Involves solving a problem by following a series of clear and logical steps.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Algorithmic thinking involves solving a problem by following a series of clear and logical steps."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is algorithmic thinking?",
+                "options": [
+                  "Following a creative and intuitive approach to solve a problem",
+                  "Solving a problem using a step-by-step process",
+                  "Waiting for others to solve the problem for you",
+                  "Focusing only on the final results without analyzing the steps"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What is a task where you unconsciously use algorithmic thinking most often?"
+              }
+            ]
+          },
+          {
+            "name": "Technological Priority Management",
+            "description": "Ensures that technologies with the greatest impact on objectives are prioritized.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Managing technological priorities is only about choosing the most advanced technology without considering immediate needs."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the main goal of managing technological priorities?",
+                "options": [
+                  "Selecting the most popular technology",
+                  "Ensuring that technologies with the greatest impact on objectives are prioritized",
+                  "Choosing the cheapest technologies",
+                  "Ignoring priorities to experiment with all technologies available"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "When deciding which technology to use in your work, what would be your first selection criterion?"
+              }
+            ]
+          },
+          {
+            "name": "Critical Thinking in Technology Use",
+            "description": "Involves analyzing the efficiency, risks, and impact of technologies before adoption.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Critical thinking in technology use means accepting all innovations without questioning their relevance."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "Critical thinking in technology use allows:",
+                "options": [
+                  "Accepting technologies without asking questions",
+                  "Analyzing the efficiency, risks, and impact of technologies before adoption",
+                  "Ignoring potential risks associated with new technologies",
+                  "Adopting the latest technology without evaluating its necessity"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "How do you analyze the pros and cons of a technology before adopting it at work or at home?"
+              }
+            ]
+          },
+          {
+            "name": "Technical Communication",
+            "description": "Involves making complex information more accessible and understandable.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Technical communication is about using complex jargon to impress others."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "Why is technical communication important?",
+                "options": [
+                  "To make complex information more accessible and understandable",
+                  "To use technical terms exclusively for experts",
+                  "To make topics harder to understand",
+                  "To avoid sharing information with others"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "How would you explain a complex technology to someone who has no knowledge in that field?"
+              }
+            ]
+          },
+          {
+            "name": "Cybersecurity Management",
+            "description": "Involves preventing, detecting, and responding to cyberattacks while protecting sensitive data.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Cybersecurity management involves protecting only computers and servers from attacks."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the primary objective of cybersecurity management?",
+                "options": [
+                  "Securing only personal data",
+                  "Preventing, detecting, and responding to cyberattacks while protecting sensitive data",
+                  "Protecting only the software used in companies",
+                  "Making public information more easily accessible"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "Create the worst password you can think of for creating an account on a website (minimum 4 characters)."
+              }
+            ]
+          },
+                  {
+                    "name": "Virtual Teamwork",
+                    "description": "The ability to collaborate effectively in remote or virtual environments.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Virtual teamwork is more difficult than in-person work because it lacks direct interaction."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is a key aspect of virtual teamwork?",
+                        "options": [
+                          "Clear and regular communication",
+                          "Working in isolation without sharing ideas",
+                          "Confusing your video call microphone with your gaming console microphone",
+                          "Never asking questions during virtual meetings"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What is the least enjoyable aspect of telecommuting, according to you?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Technological Monitoring",
+                    "description": "Involves anticipating technological changes and adapting professional practices.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Technological monitoring is only about following the latest trends without applying them to daily work."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "Why is technological monitoring important?",
+                        "options": [
+                          "It allows you to know the latest trends without integrating them into your work",
+                          "It helps anticipate technological changes and adapt professional practices",
+                          "It involves ignoring older technologies",
+                          "Downloading a game overnight to play it the next day"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What is a daily technological object you would never have believed would succeed before it was invented?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Digital Innovation",
+                    "description": "Involves integrating technology to enhance processes and user experience.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Digital innovation focuses solely on automating tasks without improving user experience."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is digital innovation?",
+                        "options": [
+                          "Integrating technology to enhance processes and user experience",
+                          "Developing a physical product in digital form",
+                          "Using existing technologies without any innovation",
+                          "Selling digital products without adapting to market needs"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What is the app that simplifies your daily life the most, and why?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Knowledge of Online Collaboration Tools",
+                    "description": "The ability to use tools that facilitate communication and file sharing, regardless of location.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Online collaboration tools are only useful for people working remotely or abroad."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "Why is it important to master online collaboration tools?",
+                        "options": [
+                          "They facilitate communication and file sharing regardless of the workplace",
+                          "They are only necessary for large companies",
+                          "They allow you to pretend to work",
+                          "They are only for administrative task management"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What do you think is the biggest advantage of online work?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Conflict Resolution in Digital Environments",
+                    "description": "The ability to resolve conflicts effectively in virtual or digital contexts.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Conflicts in digital environments are easier to resolve because they are not influenced by human emotions."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is the best way to resolve a conflict in a digital environment?",
+                        "options": [
+                          "Ignore the conflict and hope it disappears",
+                          "Avoid all online communication",
+                          "Use communication platforms to clarify misunderstandings and reach a mutual solution",
+                          "Avoid discussing the issue to save time"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What is the digital environment most prone to conflicts, in your opinion?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Autonomy in Using Digital Tools",
+                    "description": "The ability to independently solve problems and use digital tools effectively.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Being autonomous in using digital tools means never asking for help, even when facing difficulties."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "Autonomy in using digital tools involves:",
+                        "options": [
+                          "Never seeking help when encountering an issue",
+                          "Finding solutions independently while using available resources",
+                          "Using only one tool without exploring alternatives",
+                          "Relying solely on the tool’s instructions without experimenting"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What is the easiest technical skill to learn in IT?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Awareness of Personal Data Protection",
+                    "description": "Understanding the importance of protecting sensitive and personal data.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Protecting personal data is solely the responsibility of IT departments and not employees."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "Why is personal data protection crucial in companies?",
+                        "options": [
+                          "To ensure confidentiality and avoid leaks of sensitive information",
+                          "To collect more data without considering the law",
+                          "Because it’s only required for large corporations",
+                          "Because it allows ignoring confidentiality"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What is, in your opinion, the worst website in terms of data protection?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Agile Project Management",
+                    "description": "A project management methodology focused on flexibility, iteration, and client collaboration.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Agile project management involves strictly adhering to a predefined schedule without flexibility."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is a key principle of agile project management?",
+                        "options": [
+                          "Following a rigid plan without deviation",
+                          "Working iteratively and adapting to changes flexibly",
+                          "Ignoring client feedback and focusing only on the product",
+                          "Focusing solely on the financial aspects of the project"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What would you do first in an important project if a major change occurs mid-way, inevitably delaying the timeline?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Interdisciplinary Collaboration in Technology",
+                    "description": "Combining different skills and expertise to solve complex problems.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Interdisciplinary collaboration in technology is only useful for large-scale projects involving many experts."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is the value of interdisciplinary collaboration in technology?",
+                        "options": [
+                          "It combines different skills to solve complex problems",
+                          "It’s unnecessary for small projects",
+                          "It only involves exchanging ideas without true collaboration",
+                          "It doesn’t bring any innovation"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "Are there situations where interdisciplinary collaboration is more of a drawback than an advantage?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Digital Ethics",
+                    "description": "The responsible use of technology, respecting individuals’ rights and societal impacts.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Digital ethics is only about complying with data protection and privacy laws."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is the goal of digital ethics?",
+                        "options": [
+                          "Using technology responsibly and respecting individuals' rights",
+                          "Maximizing profits without considering user impacts",
+                          "Ignoring privacy rules to collect data",
+                          "Disregarding the social impact of technologies"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What online content makes you think the most about the lack of digital ethics?"
+                      }
+                    ]
+                  }
+                
+          
+
+        ]
+      }
+    ]
+  }
+  

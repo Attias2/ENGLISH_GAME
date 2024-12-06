@@ -1,0 +1,498 @@
+{
+    "topics": [
+      {
+        "name": "Sciences",
+        "soft_skills": [
+          {
+            "name": "Intellectual Curiosity",
+            "description": "Essential for understanding new scientific domains and fostering innovation.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Intellectual curiosity is essential for understanding new scientific domains and fostering innovation."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the key element of intellectual curiosity?",
+                "options": [
+                  "Asking questions",
+                  "Only reading scientific books",
+                  "Learning already established concepts",
+                  "Ignoring others’ opinions"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What is the topic you are least curious about intellectually?"
+              }
+            ]
+          },
+          {
+            "name": "Analytical Thinking",
+            "description": "Allows solving complex problems by examining different perspectives and interpreting data with rigor.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Analytical thinking allows you to solve complex problems by examining different perspectives and interpreting data with rigor."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the main goal of analytical thinking in scientific research?",
+                "options": [
+                  "Proposing ideas without evidence",
+                  "Analyzing data systematically",
+                  "Making hypotheses without testing them",
+                  "Following outdated methods without questioning them"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What tools or methods do you use to assess the reliability of the information you analyze in your research?"
+              }
+            ]
+          },
+          {
+            "name": "Scientific Rigor",
+            "description": "Involves following precise protocols and carefully documenting each step of an experiment.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Scientific rigor involves following precise protocols and carefully documenting each step of an experiment."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What characterizes scientific rigor?",
+                "options": [
+                  "Ignoring errors in experiments",
+                  "Using a systematic and verifiable method",
+                  "Conducting experiments without controls",
+                  "Accepting all hypotheses without testing"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In your opinion, what best defines scientific rigor in the world around you?"
+              }
+            ]
+          },
+          {
+            "name": "Critical Thinking",
+            "description": "Involves questioning assumptions, evidence, and arguments critically.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Critical thinking means accepting ideas as they are presented without questioning them."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the most important aspect of critical thinking?",
+                "options": [
+                  "Accepting without discussion",
+                  "Questioning assumptions and evidence",
+                  "Blindly following previous results",
+                  "Ignoring constructive criticism"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "How do you apply critical thinking when a colleague proposes a theory that seems poorly supported?"
+              }
+            ]
+          },
+          {
+            "name": "Scientific Creativity",
+            "description": "Relies on innovating and exploring solutions to complex problems.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Scientific creativity relies solely on inventing new technologies without considering traditional methods."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the main way scientific creativity can solve complex problems?",
+                "options": [
+                  "Applying the same proven solutions to every problem",
+                  "Exploring innovative solutions that haven’t been tried yet",
+                  "Using stimulants to enhance creativity",
+                  "Following strict protocols without deviating from established methods"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What approaches do you use to stimulate your scientific creativity when a project feels too routine?"
+              }
+            ]
+          },
+          {
+            "name": "Scientific Project Management",
+            "description": "Involves planning, coordinating, and executing projects while meeting deadlines and budgets.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Scientific project management involves planning, coordinating, and executing projects while meeting deadlines and budgets."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is an essential aspect of scientific project management?",
+                "options": [
+                  "Focusing only on the final results",
+                  "Ignoring unexpected events",
+                  "Effectively organizing resources and time",
+                  "Deciding which TV series to watch during breaks"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In a scientific project, what do you consider the first priority?"
+              }
+            ]
+          },
+          {
+            "name": "Data-Driven Decision Making",
+            "description": "Relies on empirical data to guide decisions in a scientific environment.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Decision-making in a scientific environment primarily relies on intuition rather than empirical data."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "When is it most relevant to make a decision based on data in scientific research?",
+                "options": [
+                  "When hypotheses are confirmed",
+                  "When personal intuition seems more reliable",
+                  "During your weekly shower",
+                  "When results are contradictory"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What types of data-driven decisions would you make if given the opportunity?"
+              }
+            ]
+          },
+          {
+            "name": "Modeling and Simulation Skills",
+            "description": "Use models and simulations to test hypotheses and predict outcomes.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Modeling and simulation skills are only useful for researchers in computer science and mathematics."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "In which field are modeling and simulation skills crucial?",
+                "options": [
+                  "Physics, biology, and meteorology",
+                  "Video games",
+                  "Marketing",
+                  "History"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "How would you use modeling and simulation to test hypotheses or predict outcomes in your research?"
+              }
+            ]
+          },
+          {
+            "name": "Scientific Teamwork",
+            "description": "Relies on collaboration and sharing ideas among researchers.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Scientific teamwork relies on collaboration and sharing ideas between researchers, which is crucial for advancing a research project."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the main characteristic of good teamwork in scientific research?",
+                "options": [
+                  "Never questioning others' decisions",
+                  "Working independently with no communication",
+                  "Sharing information and working together toward a common goal",
+                  "Watching football together after work"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "How would you organize collaboration within a research team, especially when there are differing opinions?"
+              }
+            ]
+          },
+          {
+            "name": "Adaptability to New Technologies",
+            "description": "Allows integration of innovations to improve research methods.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Adaptability to new technologies is an asset in science because it allows the integration of innovations to improve research methods."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "Why is it important to adapt to new technologies in scientific research?",
+                "options": [
+                  "To remain competitive and efficient",
+                  "To preserve traditional methods",
+                  "To save time",
+                  "To focus only on theoretical aspects"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What technology do you believe is the most useful in various scientific research areas, and why?"
+              }
+            ]
+          },
+
+         
+                  {
+                    "name": "Clear Scientific Communication",
+                    "description": "Crucial for sharing discoveries with a broader audience, whether scientific or not.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Clear scientific communication is crucial for sharing discoveries with a broader audience, whether scientific or not."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is the main characteristic of clear scientific communication?",
+                        "options": [
+                          "Using complex jargon to impress your children",
+                          "Making concepts accessible to a broad audience",
+                          "Explaining only results without context",
+                          "Using very complex graphics"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "How do you ensure your research is understandable to a non-specialist audience?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Managing Uncertainty",
+                    "description": "Important in science because experiment results can sometimes be unpredictable or contradictory.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Managing uncertainty is important in science because experiment results can sometimes be unpredictable or contradictory."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "How do you manage uncertainty in your scientific research?",
+                        "options": [
+                          "Ignoring contradictory results",
+                          "Repeating experiments to confirm results",
+                          "Abandoning research as soon as results are uncertain",
+                          "Flipping a coin"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What approach do you take when confronted with unexpected or uncertain results in an experiment, regardless of the field?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Interdisciplinary Collaboration",
+                    "description": "Allows tackling a problem from multiple angles and combining varied skill sets.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Interdisciplinary collaboration is beneficial in science because it allows tackling a problem from multiple angles and combining varied skill sets."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is the main strength of interdisciplinary collaboration in scientific research?",
+                        "options": [
+                          "Working in isolation",
+                          "Combining different skills and expertise to solve complex problems",
+                          "Blaming other departments for mistakes",
+                          "Focusing solely on theoretical results"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "Are there two fields where collaboration seems impossible?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Managing Scientific Failure",
+                    "description": "Involves analyzing errors, learning from them, and adjusting the approach.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Managing scientific failure involves abandoning a project when it encounters significant difficulties."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What does managing a scientific failure well mean?",
+                        "options": [
+                          "Not getting depressed after making a mistake",
+                          "Analyzing errors, learning from them, and adjusting the approach",
+                          "Ignoring failure and continuing as if nothing happened",
+                          "Focusing only on success"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What, in your opinion, would be the worst failure for a scientist?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Precision in Experimentation",
+                    "description": "Essential for obtaining reliable and reproducible results.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Precision in experimentation is essential for obtaining reliable and reproducible results."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "Why is precision crucial in scientific experiments?",
+                        "options": [
+                          "To ensure that results are reproducible and valid",
+                          "To speed up the experiment",
+                          "To avoid starting over",
+                          "To minimize the resources used"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "For which scientific experiment would you be willing to be a test subject?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Ability to Defend a Hypothesis",
+                    "description": "Requires demonstrating validation through experimental results and evidence.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Defending a scientific hypothesis requires demonstrating that it is validated by experimental results and evidence."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is the first step in defending a scientific hypothesis?",
+                        "options": [
+                          "Presenting only unverified data",
+                          "Building a strong argument based on experimental evidence",
+                          "Raising your right hand and swearing to tell only the truth",
+                          "Rejecting any contradictory hypothesis without evidence"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What area of science are you most knowledgeable about, and can you share an anecdote related to this field?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Scientific Ethics",
+                    "description": "Involves transparency, integrity, and considering the societal impact of research.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Scientific ethics only involves following experimental protocols without considering the societal impact of research."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is a fundamental aspect of scientific ethics?",
+                        "options": [
+                          "Manipulating results to match the hypothesis",
+                          "Ensuring transparency and integrity in scientific data",
+                          "Ignoring moral questions related to research",
+                          "Publishing only positive results"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What would you do if you discovered that a colleague manipulated or falsified data in a joint research project?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Autonomous Learning",
+                    "description": "A way to stay updated in one's scientific field without needing formal training.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Autonomous learning is a way to stay updated in one's scientific field without needing formal training."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is the key to autonomous learning in science?",
+                        "options": [
+                          "Waiting for others to share their knowledge",
+                          "Watching Breaking Bad",
+                          "Actively seeking out resources to deepen your understanding",
+                          "Never questioning established ideas"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "How do you organize your autonomous learning to stay updated in your field of expertise?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Managing Complexity",
+                    "description": "Involves breaking down complex problems into simpler sub-problems to better understand them.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Managing complexity in science involves breaking down complex problems into simpler sub-problems to better understand them."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What approach is essential for managing complexity in a scientific project?",
+                        "options": [
+                          "Not starting scientific projects at all",
+                          "Tackling each problem globally without breaking it down",
+                          "Breaking down complex problems into smaller, solvable steps",
+                          "Focusing solely on theory without practical application"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "If multiple people have different ideas for solving a complicated problem, how do you listen to them and make a decision?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Resilience to Criticism",
+                    "description": "Involves accepting feedback and using it to improve one's work.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Resilience to criticism involves rejecting others' feedback and continuing to work according to one's own methods."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "Why is it important to develop resilience to criticism in science?",
+                        "options": [
+                          "To avoid strangling fellow scientists",
+                          "To continuously improve one's work and learn from feedback",
+                          "To defend against any form of criticism",
+                          "To quit immediately after receiving criticism"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "Who, in your opinion, is the best example of resilience to criticism?"
+                      }
+                    ]
+                  }
+                
+          
+
+
+
+
+        ]
+      }
+    ]
+  }
+  

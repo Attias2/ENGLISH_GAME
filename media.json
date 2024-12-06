@@ -1,0 +1,490 @@
+{
+  "topics": [
+    {
+      "name": "Media",
+      "soft_skills": [
+        {
+          "name": "Content Creation",
+          "description": "The ability to produce engaging and relevant content for various media platforms.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Content creation is solely about writing articles for websites."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "What is the key to good content creation?",
+              "options": [
+                "Producing content quickly.",
+                "Creating relevant content for the target audience.",
+                "Imitating what other creators do.",
+                "Adding gifs in every sentence to make articles more fun."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "Name six different social media platforms."
+            }
+          ]
+        },
+        {
+          "name": "Media Crisis Management",
+          "description": "Handling unexpected situations in the media while maintaining a consistent and transparent message.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Media crisis management involves minimizing communication and waiting for the situation to calm down."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "What is an essential element in media crisis management?",
+              "options": [
+                "Ignoring criticism.",
+                "Waiting for the media to forget the incident.",
+                "Hiring influencers to talk about the incident for you.",
+                "Communicating a consistent and transparent message."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "Cite an example of a situation where a company had to handle a significant media crisis."
+            }
+          ]
+        },
+        {
+          "name": "Empathy Towards the Audience",
+          "description": "Understanding and connecting with the audience to create impactful messages.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Empathy towards the audience is important only when speaking to a large audience."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "Why is empathy crucial in media work?",
+              "options": [
+                "To adapt messages and connect with the audience.",
+                "To sell more products.",
+                "To create interesting live arguments.",
+                "To make sponsored posts unrelated to the audience."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "Explain why empathy is essential in the media."
+            }
+          ]
+        },
+        {
+          "name": "Public Speaking",
+          "description": "The ability to effectively communicate and engage with an audience in person or virtually.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Public speaking is reserved only for professional speakers."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "What can improve public speaking skills?",
+              "options": [
+                "Not preparing and improvising entirely.",
+                "Using visuals to support your speech.",
+                "Standing still and reading notes without smiling.",
+                "Speaking quickly to finish faster."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "In your opinion, what is the key to delivering a successful public speech?"
+            }
+          ]
+        },
+        {
+          "name": "Active Listening",
+          "description": "Listening attentively to understand and address the concerns or interests of the audience.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "In the media, it is more important to listen than to speak to capture the audience's attention."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "Why is active listening important in the media?",
+              "options": [
+                "To be able to repeat what everyone says.",
+                "To ensure no one speaks louder than you.",
+                "To understand audience concerns and address them.",
+                "To prepare a boring response for every comment."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "Which media platform do you think most requires strong listening skills?"
+            }
+          ]
+        },
+        {
+          "name": "Storytelling",
+          "description": "Crafting compelling narratives to engage and inspire the audience.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Storytelling is only important for writers and novelists."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "What makes a good story in the media?",
+              "options": [
+                "Adding unnecessary details.",
+                "Creating a captivating and logical narrative arc.",
+                "Using long, complicated sentences.",
+                "Having no story and improvising live."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "In what type of content is storytelling most important?"
+            }
+          ]
+        },
+        {
+          "name": "Effective Writing",
+          "description": "The ability to write clear, concise, and impactful messages tailored to the audience.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Writing effectively in the media means using complex words to impress readers."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "What makes media writing effective?",
+              "options": [
+                "Using a complicated vocabulary.",
+                "Repeating the same points multiple times.",
+                "Avoiding catchy titles.",
+                "Getting straight to the point with relevant information."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "What do you think is the most crucial element for making content enjoyable to read?"
+            }
+          ]
+        },
+        {
+          "name": "Visual Creativity",
+          "description": "Using visuals to enhance engagement and convey messages effectively.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Visual creativity has a significant impact on modern media."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "What makes visual content more engaging?",
+              "options": [
+                "Using relevant and aesthetic images and graphics.",
+                "Adding decorative elements without purpose.",
+                "Filling the screen with text.",
+                "Adding gifs everywhere, even if unrelated."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "Why do you think visual creativity is so important in the media industry?"
+            }
+          ]
+        },
+        {
+          "name": "Adaptability to New Platforms",
+          "description": "The ability to quickly learn and optimize content for emerging media platforms.",
+          "questions": [
+            {
+              "type": "True/False",
+              "question": "Adaptability to new platforms is unnecessary if you’re already an expert on an established one."
+            },
+            {
+              "type": "Multiple Choice",
+              "question": "Why is adaptability to new platforms essential?",
+              "options": [
+                "To claim mastery over all platforms.",
+                "Because trying new things for no reason is fun.",
+                "To prove you can master any tool in 10 minutes.",
+                "To reach diverse audiences and stay relevant."
+              ]
+            },
+            {
+              "type": "Open-ended",
+              "question": "How should a media professional adapt to a new platform?"
+            }
+          ]
+        },   
+                {
+                  "name": "Critical Thinking About Sources",
+                  "description": "The ability to evaluate the reliability and accuracy of information sources.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Critical thinking about sources is only useful for online information."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "Why is critical thinking about sources crucial?",
+                      "options": [
+                        "To create interesting stories, even if unverified.",
+                        "To ensure information is reliable and accurate.",
+                        "Because everyone trusts the Internet.",
+                        "Because external sources are always trustworthy."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "What is the first thing to check when evaluating a source of information?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Time Management Under Tight Deadlines",
+                  "description": "The ability to prioritize and organize tasks efficiently under pressure.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Time management is more important in the media."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "What is the best way to manage time under tight deadlines?",
+                      "options": [
+                        "Procrastinating until later.",
+                        "Prioritizing tasks based on urgency and importance.",
+                        "Writing everything at once without planning.",
+                        "Avoiding sleep to save time."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "What would you do first if you had to produce urgent content for a major publication?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Knowledge of Social Media Trends",
+                  "description": "The skill of staying updated with and utilizing current social media trends effectively.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Keeping up with social media trends is unnecessary if working in traditional media."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "Why is it important to follow social media trends?",
+                      "options": [
+                        "Because everyone uses the same platforms.",
+                        "To post only popular memes.",
+                        "To understand audience preferences and adapt content.",
+                        "Because hashtags are just a passing fad."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "Which platform do you think is the most crucial for staying updated with global news?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Collaboration With Creative Teams",
+                  "description": "The ability to work collaboratively with diverse creative teams to generate innovative ideas.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Working with creative teams in media is mainly about logistical coordination, not creative collaboration."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "What is the benefit of collaborating with a creative team?",
+                      "options": [
+                        "Avoiding working alone and pretending to be busy.",
+                        "Generating innovative ideas by combining everyone’s talents.",
+                        "Escaping responsibilities.",
+                        "Discussing the weather and vacations during creative sessions."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "Describe in one word the importance of working with a creative team in media production."
+                    }
+                  ]
+                },
+                {
+                  "name": "Simplifying Complex Concepts",
+                  "description": "The ability to break down and explain complex ideas in a clear and understandable way.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Simplifying complex concepts means removing essential details."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "Why is simplifying complex concepts important in the media?",
+                      "options": [
+                        "To prevent the audience from feeling overwhelmed.",
+                        "To avoid sharing too much information.",
+                        "To save time by skipping explanations.",
+                        "Because everyone prefers complicated sentences."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "Is it easier to explain a moderately difficult topic to a child or a complex topic to an adult?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Journalistic Ethics",
+                  "description": "Upholding principles of honesty, accuracy, and fairness in media reporting.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Journalistic ethics are solely about avoiding fake news."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "What does journalistic ethics involve?",
+                      "options": [
+                        "Publishing only sensational stories.",
+                        "Manipulating facts to create engaging stories.",
+                        "Copying articles from other media outlets.",
+                        "Fact-checking, respecting confidentiality, and avoiding bias."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "Should journalistic ethics be prioritized over other sectors?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Working Under Pressure",
+                  "description": "The ability to handle stress effectively while maintaining productivity.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Working under pressure is unavoidable in the media industry."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "What’s the best way to work under pressure?",
+                      "options": [
+                        "Ignoring deadlines and hoping they go away.",
+                        "Staying calm, organizing tasks, and seeking support if needed.",
+                        "Working nonstop until it’s all done.",
+                        "Creating a stress-inducing music playlist to 'boost' productivity."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "How do you manage pressure when faced with tight deadlines for producing content?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Editing and Post-Production Skills",
+                  "description": "The ability to refine and polish media content for maximum impact.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Editing and post-production are unnecessary if the content is done well from the start."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "Why are editing and post-production essential?",
+                      "options": [
+                        "To refine content and make it more appealing to the audience.",
+                        "To fix errors after publishing.",
+                        "To add unnecessary special effects.",
+                        "To fill gaps with irrelevant visuals."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "How does editing and post-production impact the final quality of media content?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Online Reputation Management",
+                  "description": "The ability to maintain and improve public perception on digital platforms.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Managing online reputation is a task only for influencers and celebrities."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "What’s a key step in online reputation management?",
+                      "options": [
+                        "Ignoring all negative comments.",
+                        "Responding promptly to criticism in a professional manner.",
+                        "Deleting all non-positive comments.",
+                        "Creating fake accounts to defend your image."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "Do you think online reputation is more important today than offline reputation?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Audience Analysis Skills",
+                  "description": "The ability to understand and cater to the preferences and behaviors of the target audience.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Audience analysis is only important for digital media."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "Why is audience analysis important?",
+                      "options": [
+                        "To understand what content appeals to most and adjust messages.",
+                        "To avoid producing quality content.",
+                        "To target only young adults.",
+                        "To increase 'likes' on social media."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "What’s the primary significance of audience analysis in your opinion?"
+                    }
+                  ]
+                },
+                {
+                  "name": "Adapting Messages to the Audience",
+                  "description": "The ability to tailor messages to suit different demographics and contexts.",
+                  "questions": [
+                    {
+                      "type": "True/False",
+                      "question": "Sending the same message to all audiences, regardless of age, culture, or preferences, is best."
+                    },
+                    {
+                      "type": "Multiple Choice",
+                      "question": "Why is it important to adapt messages to the audience?",
+                      "options": [
+                        "So everyone receives the same message, no matter the context.",
+                        "To make messages more generic and neutral.",
+                        "To improve impact and public engagement.",
+                        "To make everyone laugh, even if the content is serious."
+                      ]
+                    },
+                    {
+                      "type": "Open-ended",
+                      "question": "What’s the most important step when adapting a message for a younger audience versus an older audience?"
+                    }
+                  ]
+                }
+
+      ]
+    }
+  ]
+}

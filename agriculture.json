@@ -1,0 +1,497 @@
+{
+    "topics": [
+      {
+        "name": "Agriculture",
+        "soft_skills": [
+          {
+            "name": "Teamwork",
+            "description": "Collaborate effectively with other farmers, workers, or partners.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Teamwork is essential in agriculture to ensure task coordination."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is a key advantage of teamwork in a farming operation?",
+                "options": [
+                  "Less communication required",
+                  "Increase in conflicts",
+                  "Efficient task distribution",
+                  "Reduction of workload for everyone"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In which professional sector is it the most challenging to work as a team?"
+              }
+            ]
+          },
+          {
+            "name": "Problem-solving",
+            "description": "Find creative solutions to unexpected issues such as weather, diseases, and logistics.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Problem-solving only involves technical skills."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "When a machine breaks down during harvesting, what should be the first step in solving the problem?",
+                "options": [
+                  "Ignore the issue",
+                  "Identify the cause of the breakdown",
+                  "Call all employees",
+                  "Stop the harvest entirely"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In your opinion, what is the worst situation an agricultural worker could face?"
+              }
+            ]
+          },
+          {
+            "name": "Adaptability",
+            "description": "Quickly adjust to changes in weather or economic conditions.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Adaptability is less important in regions with stable climates."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "An unexpected flood hits your farm. What would be an appropriate response?",
+                "options": [
+                  "Continue operations as planned",
+                  "Reorganize tasks to minimize losses",
+                  "Build an Olympic-sized swimming pool",
+                  "Wait until the rains stop to act"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In your opinion, is it better for a farmer to work in extreme heat or during a flood?"
+              }
+            ]
+          },
+          {
+            "name": "Clear Communication",
+            "description": "Effectively convey information, both orally and in writing.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Good communication reduces errors in agricultural tasks."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "During a team meeting, what is a good way to ensure clear communication?",
+                "options": [
+                  "Use simple and direct language",
+                  "Ignore participants’ questions",
+                  "Give orders without explanations",
+                  "Speak in a language not understood by colleagues"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "Only using miming, try to communicate an instruction to the other players."
+              }
+            ]
+          },
+          {
+            "name": "Time Management",
+            "description": "Organize tasks to optimize agricultural seasons.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Good time management maximizes agricultural yields."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What tool can help with time management on a farm?",
+                "options": [
+                  "An alarm clock",
+                  "A seasonal schedule",
+                  "A car",
+                  "A typewriter"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "You are a busy farmer with a very tight schedule. What is the first task you perform?"
+              }
+            ]
+          },
+          {
+            "name": "Stress Management",
+            "description": "Handle pressure from deadlines, uncertainties, and emergencies.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Stress can reduce efficiency and decision-making."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What method can help manage stress related to agricultural challenges?",
+                "options": [
+                  "Ignore the problem",
+                  "Take regular breaks",
+                  "Roll a hay bale and smoke it",
+                  "Temporarily quit the job"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In your opinion, what is the best technique to recommend to a farmer for managing stress in a demanding agricultural environment?"
+              }
+            ]
+          },
+          {
+            "name": "Critical Thinking",
+            "description": "Evaluate farming practices and adopt the most effective ones.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Critical thinking helps improve farming practices."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "When evaluating an agricultural method, what should you prioritize?",
+                "options": [
+                  "Its cost",
+                  "Its effectiveness in a specific context",
+                  "The method used by your neighbors",
+                  "If it helps you gain visibility on TikTok"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "Explain how you could use critical thinking to improve a traditional farming practice."
+              }
+            ]
+          },
+          {
+            "name": "Initiative",
+            "description": "Make decisions without waiting for constant directives.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Taking initiative on a farm can improve productivity."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What does 'taking initiative' mean in an agricultural context?",
+                "options": [
+                  "Only following orders",
+                  "Proposing and acting on a new idea without waiting for a directive",
+                  "Waiting for other teams’ results",
+                  "Always seeking validation from each animal"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "You are wealthy and want to become a farmer. What is the first thing you implement on your farm, and why?"
+              }
+            ]
+          },
+          {
+            "name": "Continuous Learning",
+            "description": "Stay informed about new technologies and sustainable practices.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Agriculture requires continuous learning due to technological advancements."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "What is the best way to stay updated on new agricultural practices?",
+                "options": [
+                  "Reading specialized articles",
+                  "Going back to school",
+                  "Attending training sessions or webinars",
+                  "Networking with other farmers"
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "What sources or methods do you use to enhance your agricultural knowledge?"
+              }
+            ]
+          },
+          {
+            "name": "Interpersonal Skills",
+            "description": "Build good relationships with clients, suppliers, and colleagues.",
+            "questions": [
+              {
+                "type": "True/False",
+                "question": "Interpersonal skills are useless in an individually managed farm."
+              },
+              {
+                "type": "Multiple Choice",
+                "question": "Why are interpersonal skills important in agriculture?",
+                "options": [
+                  "They facilitate communication with the team.",
+                  "They help manage relationships with clients and suppliers.",
+                  "They assist in understanding partners' needs.",
+                  "All the above."
+                ]
+              },
+              {
+                "type": "Open-ended",
+                "question": "In your opinion, what is the best way to maintain good professional relationships in agriculture?"
+              }
+            ]
+          },
+
+          
+                  {
+                    "name": "Leadership",
+                    "description": "Motivate a team to achieve common goals.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "A good agricultural leader only gives orders and controls everything."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is a characteristic of a good leader in a farming operation?",
+                        "options": [
+                          "Always imposes decisions",
+                          "Listens to and motivates their team",
+                          "Plays Protocol 55 and leaves all the work to others",
+                          "Ignores the concerns of others"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "How would you define the role of a leader in a farming operation?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Close Observation",
+                    "description": "Detect anomalies in crops or livestock quickly.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Close observation allows you to identify potential issues before they become serious."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "When a crop shows unusual signs, what should a careful farmer do?",
+                        "options": [
+                          "Ignore the problem",
+                          "Monitor and analyze the symptoms",
+                          "Harvest immediately",
+                          "Change practices without analysis"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "Share an example where close observation helped you avoid a problem on a farm."
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Patience",
+                    "description": "Wait for results, often over long periods (growth cycles).",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Patience is crucial for waiting for results in crop and livestock cycles."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "In which agricultural situation is patience necessary?",
+                        "options": [
+                          "Harvesting crops prematurely",
+                          "Waiting for fruits to fully ripen",
+                          "Ignoring natural cycles",
+                          "Rushing to finish work quickly"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "How would you cultivate patience in the face of natural or economic challenges as a farmer?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Organizational Skills",
+                    "description": "Manage resources, stock, and agricultural tasks effectively.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "A poorly organized farm can lead to significant losses."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is a good organizational practice for a farming operation?",
+                        "options": [
+                          "Keeping a task calendar",
+                          "Not planning and improvising",
+                          "Consulting your horoscope",
+                          "Ignoring weather forecasts"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What is the first criterion you would consider to prioritize your daily agricultural tasks?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Negotiation",
+                    "description": "Secure favorable terms with suppliers or buyers.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Good negotiation skills can improve profit margins."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is essential to succeed in negotiating with a supplier?",
+                        "options": [
+                          "Being aggressive",
+                          "Listening to the other party’s proposals",
+                          "Preparing solid arguments",
+                          "Accepting everything without negotiation"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "In your opinion, what is the most important product for a farmer to negotiate well?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Environmental Responsibility",
+                    "description": "Awareness of sustainable practices and respect for nature.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Sustainable farming practices reduce agriculture’s environmental impact."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "Which practice is considered environmentally responsible?",
+                        "options": [
+                          "Excessive pesticide use",
+                          "Crop rotation",
+                          "Burning agricultural residues",
+                          "Uncontrolled irrigation"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What is the first concrete action you would implement to reduce the environmental impact of your farm?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Creativity",
+                    "description": "Innovate in farming methods or crop diversification.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Creativity can help solve problems and innovate in agriculture."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "Which situation might require a creative approach?",
+                        "options": [
+                          "Facing a saturated market",
+                          "Repeating the same farming practices without evaluation",
+                          "Ignoring technical innovations",
+                          "Exactly following what your neighbors do"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What could be the best creative approach a farmer could take?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Conflict Management",
+                    "description": "Resolve disagreements within a team or with partners.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Ignoring conflicts within the farming team can make the situation worse."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What is the best way to resolve a conflict between team members?",
+                        "options": [
+                          "Organize a fight",
+                          "Listen to both sides and find a balanced solution",
+                          "Automatically choose a culprit",
+                          "Fire both parties involved"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "How would you approach conflicts on a farm to avoid them harming productivity?"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Attention to Detail",
+                    "description": "Anticipate risks through careful observation.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "A careful farmer can detect signs of stress in crops or livestock before serious problems occur."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What should you regularly observe to prevent problems on a farm?",
+                        "options": [
+                          "Soil and crop conditions",
+                          "Animal behavior",
+                          "Weather variations",
+                          "All of the above"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "Describe a situation where attention to detail could prevent a significant loss on a farm."
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Entrepreneurial Spirit",
+                    "description": "Develop a strategic vision to make the farm thrive.",
+                    "questions": [
+                      {
+                        "type": "True/False",
+                        "question": "Having an entrepreneurial spirit is helpful for seizing new agricultural opportunities."
+                      },
+                      {
+                        "type": "Multiple Choice",
+                        "question": "What quality is essential for developing a farming operation with an entrepreneurial spirit?",
+                        "options": [
+                          "Creativity and innovation",
+                          "Playing Farming Simulator",
+                          "Focusing only on production",
+                          "Refusing to take calculated risks"
+                        ]
+                      },
+                      {
+                        "type": "Open-ended",
+                        "question": "What strategies would you use to differentiate your agricultural products from your competitors and attract more customers?"
+                      }
+                    ]
+                  }
+                
+            
+            
+          
+          
+        ]
+      }
+    ]
+  }
+  
